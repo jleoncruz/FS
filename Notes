@@ -17,7 +17,8 @@ Opcional
 - Install the .NET driver for windows/visual studio [https://www.nuget.org/packages/MongoDB.Driver/]
 
 /******************************* Client *******************************/
-{
+
+client1 = {
 	"ID": 1, /*Auto assign?*/
 	"UserName": "elioncross@gmail.com",
 	"FullName": "Ruben Leon",
@@ -28,7 +29,7 @@ Opcional
 	"Photos": ["ObjectID(ref Photo)", "ObjectID(ref Photo)"]
 }
 
-{
+client2 = {
 	"ID": 2,
 	"UserName": "jleoncruz@gmail.com",
 	"FullName": "Juan Leon",
@@ -37,7 +38,7 @@ Opcional
 	"Photos": ["3", "4"]
 }
 
-{
+client3 = {
 	"ID": 3,
 	"UserName": "rleonortiz@gmail.com",
 	"FullName": "Rafael Leon",

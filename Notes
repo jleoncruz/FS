@@ -13,7 +13,7 @@ Admin Tools for MongoDB
 - http://edgytech.com/umongo/  -- UMongo
 - http://robomongo.org/  -- Robomongo
 
-Opcional
+Optional
 - Install the .NET driver for windows/visual studio [https://www.nuget.org/packages/MongoDB.Driver/]
 
 /******************************* How to insert a Client document in mongodb *******************************/

@@ -63,18 +63,8 @@ var mydocuments =
     ];
     
     db.client.insert( mydocuments );
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
 /******************************* Estos son ejemplos del MVA[Videos]  *******************************/
 
 User Document
@@ -92,3 +82,17 @@ Post Document
 	"created_at": "2015:02:14:01:00:00:00",
 	"text": "this is a new cheep!"
 }   
+
+/******************************* Simple NodeJS/Express Setup  *******************************/
+
+BBB
+[Bueno, Bonito y Barato]
+
+1) Open Windows Power Shell with Admin Rights.
+2) Go to the desired directory
+3) Run the following command :: "express --ejs"
+4) Run the following command :: "npm install"
+5) Run the following command :: "npm start app.js"
+6) Launch a browser with address :: "http://localhost:3000/"
+7) "Welcome to express"
+8) Reference -- https://github.com/hwz/chirp/tree/master/module-3
